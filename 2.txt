@@ -1,0 +1,1 @@
+File #2 Testing the -a command to see if it commits multi files from untracked through the staging area and straight to commit

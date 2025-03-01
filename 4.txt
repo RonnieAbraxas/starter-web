@@ -1,0 +1,2 @@
+Discovered -a doesn't work on multi-files, but "add ." does. Now testing single add after creating two files. This is file 2 of that test.
+
