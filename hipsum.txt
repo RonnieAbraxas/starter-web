@@ -1,2 +1,6 @@
 Lorem ipsum callamagypsum
 If I were a flipsum I would prolly bypsum
+
+Ok, I screwed this up last time but I'm trying to test having staged and unstaged changes in the same file. This line will be staged, but not committed. Then I'll add a new line and check if it needs to be staged. 
+
+Ok, above line is now staged. Here's the next line. Let's see if the files shows as having staged and unstaged bits now.
