@@ -17,3 +17,7 @@ I would prefer deployment to employment if I had UBI. This is because I'd use my
 ## The Typing of The -W
 
 So it turns out that you really do have to type -w to get the blocking process except when it's a commit. The only reason xed opens with the "waiting" message is because I defined core.editor xed -w in my config file. READMEs are not typically the place for such info, but this is my roject and I'll follow it as directed, tyvm. EXCEPT when I need to add parts that are already there. Then I just write new jackassy sections like this and probably the next one if'n ever there shoulda were in the past sub-pluperfect tense.
+
+## -W v. W
+
+-W is by far superior to W, even though W was superior to DJT. That's mostly cos he... oh, I've complained about this enough. Let's just make a better world, ok? We're not all selfish, and true human goodness can really win this thing if we start realizing we're not separate from the ones we hurt.
