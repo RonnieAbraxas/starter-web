@@ -37,3 +37,6 @@ Whoops! Scrod the pooch again! (past pluperfect?) I wasn't supposed to add that 
 ## CASE MATTERS!
 
 Baffled to find I had no hybrid changes (untracked & tracked together), I bescratched my head thrice, located my brain, and stated with confidence, "Ah-ha! Git must be case sensitive." I was saving "readme.md" and git was like "No. F that, but I won't tell you why." Let's see if this solves the ish. 
+
+### Copyright 
+2025 Broken Open Productions in cohoots with Yo Mudda
