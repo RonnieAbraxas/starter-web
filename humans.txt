@@ -7,7 +7,7 @@
 
 # THANKS
 
-    <name>
+    David Farley for his book "The Modern Software Engineer"
 
 # TECHNOLOGY COLOPHON
 
