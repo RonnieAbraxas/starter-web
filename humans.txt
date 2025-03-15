@@ -7,7 +7,7 @@
 
 # THANKS
 
-    David Farley for his book "The Modern Software Engineer"
+    To David Farley for his book "The Modern Software Engineer." If you like me, you'll like him better. If you don't like me, you'll like him even more better.
 
 # TECHNOLOGY COLOPHON
 
