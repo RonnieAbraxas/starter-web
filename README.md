@@ -43,7 +43,7 @@ Baffled to find I had no hybrid changes (untracked & tracked together), I bescra
 Please pitchfork this repo and then issue a tyrant pulldown request. IYKYK.
 
 ### Copyright 
-2025 Broken Open Productions in cohoots with Yo Mudda
+2025 Broken Open Productions in cohoots with Yo Mudda. All rights artificially preserved because that annoys RFK Jr. and honestly, he kinda sucks.
 
 POSTSCRIPT
 This line is for testing rebase. And this line is the continued work I did on myfeature before merging with master.
