@@ -8,7 +8,7 @@ Sample website with plenty of files for demos
 
 ## My 2 cents
 
-I'm adding my own two cents here because that's all I can afford.
+I'm adding my own two cents here because that's all I can afford. I'm also adding this second line for a stsshing practice example.
 
 ## Deployment
 
